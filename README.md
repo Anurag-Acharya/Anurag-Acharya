@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Anurag-Acharya
 - 👀 I’m interested in cybersecurity and backend.
 - 🌱 I’m currently learning cybersecurity.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on web development projects.
 - 📫 How to reach me msg me or email anuragacharya456@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: You can write he/him they/them or leave blank.
 - ⚡ Fun fact: I am hilarious.
 
 <!---
